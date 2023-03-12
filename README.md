@@ -48,3 +48,6 @@ This innitiates the operator algebra for n=1, calculates its dimension and gives
 # Example
   
 The following is a screenshot of Magma running a n=2 example.
+
+![calc1](https://github.com/dtubbenhauer/symplectic-diff-operators/blob/main/calc1.png)
+![calc2](https://github.com/dtubbenhauer/symplectic-diff-operators/blob/main/calc2.png)
